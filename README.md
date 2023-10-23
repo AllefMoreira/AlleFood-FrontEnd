@@ -61,3 +61,11 @@ O cliente pode adicionar pratos aos favoritos, adicionar à lista de compras e p
 - Ao clicar, o ícone muda sua forma pra sinalizar q está favoritado e também pode ser encotnrado em "meus favoritos" no header do site.
 - O prato que está favoritado ficará na lista de favoritos, e ao clicar na imagem do prato ele é encaminhado para a página principal do prato com a quantidade 1.
 - O prato pode ser excluído dos favoritos utilizando o botão que fica em baixo do nome do prato, na lista dos favoritos, ou clicando novamente no coração.
+  
+## Deploy
+O site pode ser encontrado no link: https://allefood.netlify.app/
+Para usufruir do "modo cliente" você pode criar um usuário normalmente ou usar um login padrão:
+**usuário**: joao@gmail.com
+**senha**: 123456
+
+O front-end está hospedado no Netlify e o back-end está hospedado no Heroku.
